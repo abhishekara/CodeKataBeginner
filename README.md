@@ -1,0 +1,2 @@
+# CodeKataBeginner
+Programming Contest
